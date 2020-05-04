@@ -1,0 +1,6 @@
+version: '3.6'
+
+services:
+  mousecoin:
+    image: runesx/mousecoin-docker:0.0.2
+
